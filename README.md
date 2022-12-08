@@ -1,3 +1,6 @@
+## :warning: Deprecation notice
+> This repository has been archived and is no longer maintained.
+
 # Color Picker Custom Element for Kentico Kontent
 
 This is a [custom element](https://kontent.ai/learn/tutorials/develop-apps/integrate/content-editing-extensions) for [Kentico Kontent](https://kontent.ai) that allows users to choose a color using a dynamic pallete. It saves the value as a HEX string (e.g. `#ff0000` for a bright red or `#00ff00` for a bright green).
